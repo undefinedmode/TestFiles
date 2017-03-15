@@ -1,0 +1,2 @@
+# There are no underscores in EICAR so remove these. Had to add them not to trigger detection tools prematurely
+__X5O!P%@A__P[4\PZX54(P^)7CC)7__}$E__ICA__R-STAN__DARD-AN__TIV__I__R__U__S-TEST-FI__LE!$H+H*
