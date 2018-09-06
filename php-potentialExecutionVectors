@@ -1,0 +1,17 @@
+assert(
+create_function(
+eval(
+exec(
+`
+include(
+include_once(
+passthru(
+pcntl_exec(
+popen(
+preg_replace(
+proc_open(
+ReflectionFunction
+require(
+require_once(
+shell_exec(
+system(
