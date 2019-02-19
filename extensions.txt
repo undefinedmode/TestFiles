@@ -1,0 +1,6 @@
+kdbx
+kdb
+psafe3
+one
+sql
+vcf
